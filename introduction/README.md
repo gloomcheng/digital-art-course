@@ -6,7 +6,6 @@
 
 [https://www.ted.com/talks/steven\_johnson\_how\_play\_leads\_to\_great\_inventions/transcript?language=zh-tw](https://www.ted.com/talks/steven_johnson_how_play_leads_to_great_inventions/transcript?language=zh-tw)
 
-<iframe src="https://embed.ted.com/talks/lang/zh-tw/steven_johnson_how_play_leads_to_great_inventions" width="854" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## 科技藝術
 
